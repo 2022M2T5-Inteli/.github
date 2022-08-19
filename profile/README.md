@@ -1,13 +1,13 @@
 # 🙋‍ 2022.2 - Módulo WEB - Turma 5 - Falconi
 
 ## 🔍 O problema:
-
+Alta necessidade de envolvimento de consultores para diagnóstico completo de gestão em escolas
 
 ## 🎯 O objetivo:
-Mapear o nível de qualidade educacional no Brasil de maneira escalável e automática.
+Automatizar a ferramenta de diagnóstico de forma a permitir que o gestor escolar faça seu auto diagnóstico, liberando o tempo dos consultores nesta atividade.
 
 ## 🧩 O público-alvo:
-Gestores de escolas
+Gestores de educação pública ou privada.
 
 ## 💻 Desenvolvimento WEB:
 
