@@ -19,9 +19,9 @@ Gestores de educação pública ou privada.
   - Link para acessar: 
   - Link do repositório: https://github.com/2022M2T5/Educadata
   
-- Grupo 3 - EduCons:
+- Grupo 3 - Falcons:
   - Link para acessar: 
-  - Link do repositório: https://github.com/2022M2T5/EduCons
+  - Link do repositório: https://github.com/2022M2T5-Inteli/Falcons
   
 - Grupo 4 - Millenium Dev - Desenvolvimento WEB "Dr Edu":
   - Link para acessar: 
