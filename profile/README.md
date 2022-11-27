@@ -12,21 +12,21 @@ Gestores de educação pública ou privada.
 ## 💻 Desenvolvimento WEB:
 
 - Grupo 1 - Mohack.s - Desenvolvimento WEB "EDUTRACK":
-  - Link para acessar: 
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T5/Mohack.s
 
 - Grupo 2 - Educadata - Desenvolvimento WEB "EduX":
-  - Link para acessar: 
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T5/Educadata
   
 - Grupo 3 - Falcons:
-  - Link para acessar: 
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T5-Inteli/Falcons
   
 - Grupo 4 - Millenium Dev - Desenvolvimento WEB "Dr Edu":
-  - Link para acessar: 
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T5/Millenium-Dev
   
 - Grupo 5 - RIGHTML - Desenvolvimento WEB "School ahead":
-  - Link para acessar: 
+  - Link para acessar: não disponível.
   - Link do repositório: https://github.com/2022M2T5/RIGHTML
